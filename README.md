@@ -1,3 +1,8 @@
+# 🎓 C# EĞİTİM KAMPI PROJELERİ
+Bu repo içerisinde YouTube üzerinde Murat Yücedağ eğitmenliğinde gerçekleşen C# eğitim kampı projeleri bulunmaktadır. Bu projeler sayesinde C# ile ilgili programlama kavramları ve kullanımlarını öğrenme sürecim başlamış oldu. Aşağıda bu projelerle ilgili detaylar verilmiştir:
+
+---
+
 # 🚀 PROJE 1: KONSOL UYGULAMALARI
 Bu projede, temel C# değişken tanımlamaları ve konsola yazdırma işlemleri kullanarak bir restoran menüsü oluşturdum. Konsola yazı yazdırma işlemini öğrenerek kampa güzel bir giriş yapmış oldum. 
 
